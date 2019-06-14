@@ -11,6 +11,12 @@
             "components": [{
               "type": "label",
               "text": "John Doe"
+              "style": {
+                  "font": "Avenir",
+                   "size": "30",
+                   "color": "rgb(200,0,0)",
+                 "padding": "10"
+              }
             }, {
               "type": "label",
               "text": "33"
